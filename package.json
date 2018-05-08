@@ -48,5 +48,12 @@
     "url-loader": "^0.6.2",
     "webpack": "^3.11.0",
     "webpack-merge": "^4.1.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.7",
+    "@fortawesome/fontawesome-free-solid": "^5.0.12",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
   }
 }
