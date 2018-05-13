@@ -241,6 +241,7 @@ ul.banner-social-buttons {
 @media (max-width: 1199px) {
   ul.banner-social-buttons {
     margin-top: 15px;
+    
   }
 }
 
@@ -248,7 +249,6 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li {
     display: block;
     margin-bottom: 20px;
-    padding: 0;
   }
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
@@ -343,4 +343,8 @@ font-style: italic;
 .contact-details{
     padding-top: 20px;
 
+}
+
+.home2{
+    padding-bottom:0px;
 }
