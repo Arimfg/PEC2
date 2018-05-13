@@ -25,6 +25,8 @@ h6 {
   text-transform: uppercase;
 }
 
+
+
 p {
   font-size: 16px;
   line-height: 1.5;
@@ -280,4 +282,29 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+.plays_images{
+    max-width:100%;
+}
+
+.relative_position{
+    position: relative;
+    margin: 10px;
+}
+
+.plays_images_show{
+
+}
+
+.plays-description{
+    font-size: 12px;
+    text-align: left;
+    padding-top: 15px;
+    letter-spacing: 0.08em;
+}
+
+.margin_ajust{
+    margin: 15px;
+    border: solid 1px white;
 }
