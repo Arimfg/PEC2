@@ -35,5 +35,9 @@ import "./imports";
   navbarCollapse();
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
+
+  	$( "#mainNav button" ).on( "click", function() {
+  		$("#navbarResponsive").toggle();
+	});
 });
 
