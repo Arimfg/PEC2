@@ -8,6 +8,11 @@
   height: $total;
 }
 
+.contact-image {
+  width: $totalwidth;
+  margin-top: 25px;
+}
+
 .title-mrgn { margin-bottom: 35px; }
 
 .margin-gnrl-01 { margin: $fifteen; }
@@ -20,6 +25,8 @@
 
 .padding-gnrl-01 { padding: $fifteen; }
 
+.padding-gnrl-01 { padding: $fifteen; }
+
 .padding-gnrl-02 { padding: 11px; }
 
 .padding-tp-01 { padding-top: 20px; }
@@ -29,11 +36,6 @@
 .padding-bttm-00 { padding-bottom: 0; }
 
 .position-tp-01 { top: -80px; }
-
-.contact-image {
-  width: $totalwidth;
-  margin-top: 25px;
-}
 
 .plays_images { max-width: $total; }
 
@@ -69,16 +71,6 @@ ul.banner-social-buttons { margin-top: 0; }
 .masthead .intro-body .intro-text { font-size: 18px; }
 
 .font-italic { font-style: italic; }
-
-.backgrd-01 { background-color: black; }
-
-.backgrd-02 { background-color: antiquewhite; }
-
-.border-style-01 { border-radius: 5px; }
-
-.border-style-02 { border: solid 1px white; }
-
-.rotate-image { transform: rotate(-35deg); }
 
 .navbar-brand { font-weight: 700; }
 
@@ -122,6 +114,16 @@ ul.banner-social-buttons { margin-top: 0; }
   font-size: $fifteen;
   border: 1px solid white;
 }
+
+.backgrd-01 { background-color: black; }
+
+.backgrd-02 { background-color: antiquewhite; }
+
+.border-style-01 { border-radius: 5px; }
+
+.border-style-02 { border: solid 1px white; }
+
+.rotate-image { transform: rotate(-35deg); }
 
 .navbar-nav .nav-item {
   -webkit-transition: $transition3-bckg;
