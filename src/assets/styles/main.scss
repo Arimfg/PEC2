@@ -18,16 +18,16 @@
 @import "~bootstrap/scss/bootstrap";
 @import "layouts/home";
 
-.socialIcons{
-	max-width:30px;
+.socialIcons {
+  max-width: 30px;
 }
 
 .content-section.text-center.home {
-	padding-top:50px;
+  padding-top: 50px;
 }
 
 @media (max-width: 720px) {
-	.space{
-		padding-top:50px;
-	}
+  .space {
+    padding-top:50px;
+  }
 }
